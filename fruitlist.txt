@@ -88,3 +88,9 @@ kumquat
 currant
 fig
 watermelon
+
+diseases:
+death
+bullying
+stress
+best disease
